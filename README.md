@@ -1,2 +1,2 @@
-# shirsho
-Shirsho
+# Bingo Game Simulator  
+Bingo game
